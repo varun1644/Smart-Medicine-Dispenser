@@ -61,8 +61,12 @@ The system is designed to be reliable, user-friendly, and scalable, making it su
 - Buzzer  
 
 ---
+## Methodology
+<img width="276" height="800" alt="image" src="https://github.com/user-attachments/assets/486c0a58-b979-4cfc-ac8b-16f881834e85" />
+
 
 ## Software Stack
+
 
 - Python  
 - RPi.GPIO  
